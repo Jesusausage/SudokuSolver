@@ -1,0 +1,4 @@
+'mystery2.dat' did not solve, so this must be the impossible board.
+
+'mystery3' took 126,954 value tests to compute, and the 'mystery1' board took almost 4,000,000. 
+So 'mystery1' must be the "extremely hard" puzzle, and 'mystery3' is the hard puzzle.
